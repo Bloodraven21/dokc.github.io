@@ -2,7 +2,9 @@
 title: "Generally Available: Valkey Helm Chart 1.0.0"
 date: '2026-11-12'
 slug: generally-available-valkey-helm-chart-1.0.0
-author: Edith Puclla, Silvio Gissi
+author:
+- Edith Puclla
+- Silvio Gissi
 description: "The Valkey Helm chart 1.0.0 is generally available, with Sentinel failover, TLS, ACL authentication, and Prometheus metrics for Valkey on Kubernetes. Find out what 1.0.0 includes and how to upgrade from 0.x."
 image: valkey-helm-1-0-0.webp
 tags:
